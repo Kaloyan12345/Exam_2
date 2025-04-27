@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\Migrations\\20250427090046_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataLayer\\Migrations\\20250427090046_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\businesslayer\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\gamegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\datalayer\\gamegenrescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\gamegenrescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\datalayer\\datalayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\businesslayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\businesslayer\\businesslayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\datalayer\\gamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\gamescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\businesslayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217538F2-F890-42C8-8F57-42EE63DD4317}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\datalayer\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\datalayer\\gamingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\gamingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\datalayer\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE3769A8-38DA-4C5E-8723-1493DCD996EE}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\datalayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687EF50-C2EA-4A2D-8D01-BDD25437A4FE}|TestingLayer\\TestingLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\testinglayer\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687EF50-C2EA-4A2D-8D01-BDD25437A4FE}|TestingLayer\\TestingLayer.csproj|solutionrelative:testinglayer\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687EF50-C2EA-4A2D-8D01-BDD25437A4FE}|TestingLayer\\TestingLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\testinglayer\\gamegenrescontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1687EF50-C2EA-4A2D-8D01-BDD25437A4FE}|TestingLayer\\TestingLayer.csproj|solutionrelative:testinglayer\\gamegenrescontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1687EF50-C2EA-4A2D-8D01-BDD25437A4FE}|TestingLayer\\TestingLayer.csproj|c:\\users\\user\\documents\\github\\exam_2\\kaloyanstoyanov_11e_18\\testinglayer\\testinglayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1687EF50-C2EA-4A2D-8D01-BDD25437A4FE}|TestingLayer\\TestingLayer.csproj|solutionrelative:testinglayer\\testinglayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250427090046_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\Migrations\\20250427090046_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250427090046_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\Migrations\\20250427090046_InitialCreate.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20250427090046_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:00:46.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataLayer",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T08:51:43.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T08:48:27.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameGenresContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\GameGenresContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\GameGenresContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\GameGenresContext.cs",
+              "RelativeToolTip": "DataLayer\\GameGenresContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:05:58.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GamesContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\GamesContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\GamesContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\GamesContext.cs",
+              "RelativeToolTip": "DataLayer\\GamesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:05:43.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDB.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\IDB.cs",
+              "RelativeDocumentMoniker": "DataLayer\\IDB.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\IDB.cs",
+              "RelativeToolTip": "DataLayer\\IDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:03:24.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\UsersContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\UsersContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\UsersContext.cs",
+              "RelativeToolTip": "DataLayer\\UsersContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:05:29.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\TestingLayer\\TestManager.cs",
+              "RelativeDocumentMoniker": "TestingLayer\\TestManager.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\TestingLayer\\TestManager.cs",
+              "RelativeToolTip": "TestingLayer\\TestManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:39:53.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\Game.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Game.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\Game.cs",
+              "RelativeToolTip": "BusinessLayer\\Game.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:43:35.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameGenre.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\GameGenre.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\GameGenre.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\GameGenre.cs",
+              "RelativeToolTip": "BusinessLayer\\GameGenre.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:44:01.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\GamingDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\GamingDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\GamingDbContext.cs",
+              "RelativeToolTip": "DataLayer\\GamingDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T11:40:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\User.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\BusinessLayer\\User.cs",
+              "RelativeToolTip": "BusinessLayer\\User.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:43:11.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\DataLayer.csproj",
+              "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\DataLayer\\DataLayer.csproj",
+              "RelativeToolTip": "DataLayer\\DataLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T18:13:20.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameGenresContextTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\TestingLayer\\GameGenresContextTests.cs",
+              "RelativeDocumentMoniker": "TestingLayer\\GameGenresContextTests.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\TestingLayer\\GameGenresContextTests.cs",
+              "RelativeToolTip": "TestingLayer\\GameGenresContextTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:43:46.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestingLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\TestingLayer\\TestingLayer.csproj",
+              "RelativeDocumentMoniker": "TestingLayer\\TestingLayer.csproj",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Exam_2\\KaloyanStoyanov_11e_18\\TestingLayer\\TestingLayer.csproj",
+              "RelativeToolTip": "TestingLayer\\TestingLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T18:46:13.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
